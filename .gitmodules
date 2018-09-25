@@ -1,0 +1,3 @@
+[submodule "libs/screens"]
+	path = libs/screens
+	url = git@github.com:mjleehh/mi133-lecture-screens.git
